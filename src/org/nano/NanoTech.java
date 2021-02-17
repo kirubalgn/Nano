@@ -6,6 +6,7 @@ public class NanoTech {
 		System.out.println("Fire on");
 		System.out.println("Initialized");
 		System.out.println("123");
+		System.out.println("456");
 		}
 
 	public static void main(String[] args) {
